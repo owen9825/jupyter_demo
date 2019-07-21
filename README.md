@@ -79,6 +79,7 @@ Example usage:
 * Unit tests for shipping distance.
 * Include some financial data for pig futures markets.
 * Include some data directly from Google Drive.
+* Demonstration with numpy, including [this tutorial](https://jalammar.github.io/visual-numpy/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190710+data+nl&mkt_tok=eyJpIjoiWW1FMk9EbGpOVFU0TVdNMSIsInQiOiJzeUtteVJPa2FoaGZ4akNrbDNLRW5DNHZxcWVhY1RrWnlvVmhWYzlYMVR6aGd6MzQ4bG1aN3RPVHNoZWpQZzN5cUpWa2s3dTZSdHlVNDVXTmNyanJ5bHpBaEg1NUN4RTdoRGgzMlJYak15VDlubmtHaWxBalpMTVdJT2R3NU1GZiJ9).
 
 ## See Also:
 For further discussion regarding the reasoning behind integrating Jupyter notebooks into business operations, you may be interested in:
