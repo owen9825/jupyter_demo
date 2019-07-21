@@ -1,12 +1,22 @@
 # -*- coding: utf-8 -*-
+from importlib.machinery import SourceFileLoader
 from string import whitespace
 
 import pycountry
 import wolframalpha  # https://pypi.org/project/wolframalpha/
 from babel import Locale, UnknownLocaleError
 
-from core import verified, VerifiedData
-from settings import WOLFRAM_KEY
+try:
+    from core import verified, VerifiedData
+except ModuleNotFoundError:
+    core = SourceFileLoader(
+        'core', 'jupyter_demo/core.py').load_module()
+    from core import verified, VerifiedData
+try:
+    from settings import WOLFRAM_KEY
+except ModuleNotFoundError:
+    settings = SourceFileLoader('settings', 'jupyter_demo/settings.py').load_module()
+    from settings import WOLFRAM_KEY
 
 MINIMAL_AREA = 20  # An area less than this wouldn't be enough to sustain crops to accompany pork
 

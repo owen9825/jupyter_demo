@@ -1,7 +1,13 @@
 # -*- coding: utf-8 -*-
+from importlib.machinery import SourceFileLoader
 import math
 
-from core import verified, VerifiedData
+try:
+    from core import verified, VerifiedData
+except ModuleNotFoundError:
+    core = SourceFileLoader(
+        'core', 'jupyter_demo/core.py').load_module()
+    from core import verified, VerifiedData
 
 """
 Maximum number of pigs that can fit on a ship. Don't expose this as a default to the function, or

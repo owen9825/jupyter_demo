@@ -65,6 +65,9 @@ Example usage:
   ```
 * Going to «Edit» and «nbextension config», you might wish to enable Python Markdown. Instructions discussed [here](http://www.codehamster.com/author/connygy/).
 
+### Implementation notes
+* Notice the awkward importing mechanism imposed by the path mismatch in Google Colab. Explanation is available [here](https://zerowithdot.com/colab-workspace/).
+
 ## Troubleshooting
 * Feel free to reach out with questions in a public forum, such as [the _Issues_ tab](https://github.com/owen9825/jupyter_demo/issues).
 

@@ -1,7 +1,8 @@
 babel
 chart-studio
+importlib
 numpy
-plotly
+plotly>=4.0.0
 pycountry
 python-dotenv
 pytz
