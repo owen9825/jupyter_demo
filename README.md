@@ -1,5 +1,5 @@
 # Jupyter Business Demo
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XX-ejLYYKyq9W-Yo3xqN_PS9a01DV96U)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/owen9825/jupyter_demo/blob/master/Kamarian_trade.ipynb)
 
 Here we demonstrate a workflow of how business processes could evolve by 2021, in a way that'll create a staging ground for even greater paradigm shifts after that.
 
@@ -21,7 +21,7 @@ Jupyter notebooks use the [easiest programming language to learn](https://www.qu
 Note that this is intended as a tutorial, hence there are gaps for excited readers to implement!
 
 ## Setup for Business Analysts
-* Have a look at the associated [Colab file](https://colab.research.google.com/drive/1XX-ejLYYKyq9W-Yo3xqN_PS9a01DV96U) and save a copy − this is where you'll be working.
+* Have a look at the associated [Colab file](https://colab.research.google.com/github/owen9825/jupyter_demo/blob/master/Kamarian_trade.ipynb) and save a copy − this is where you'll be working.
 * Go through some of [Google's tutorial](https://colab.research.google.com/notebooks/welcome.ipynb).
 * Note that although most of the functionality is meant to come from the code in GitHub, it will be possible for you to create your own functions too, within the Colab document.
 
