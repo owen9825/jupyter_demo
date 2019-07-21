@@ -84,3 +84,4 @@ Example usage:
 For further discussion regarding the reasoning behind integrating Jupyter notebooks into business operations, you may be interested in:
 * [Spreadsheets Are Sabotaging Your Business](https://www.applicoinc.com/blog/spreadsheets-sabotaging-business/)
 * [Basilisk-Centered Design](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/)
+* [Spreadsheets Are Destroying Your Business. Here's How](https://www.inc.com/larry-alton/spreadsheets-are-destroying-your-business-heres-how.html)
