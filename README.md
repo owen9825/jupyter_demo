@@ -5,7 +5,7 @@ Here we demonstrate a workflow of how business processes could evolve by 2021, i
 
 The workflow here is that an "insightful" business analyst will be writing [this report](https://colab.research.google.com/drive/1XX-ejLYYKyq9W-Yo3xqN_PS9a01DV96U) in [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb), while being supported by software engineers ("code monkeys") who will be writing useful code here in this repository.
 
-It shall be shown how business reports can quickly be re-generated, with any assumptions tested against the current state of the world, for the easy spotting of new opportunities and risks.
+It shall be shown how business reports can quickly be re-generated, with any assumptions tested against the current state of the world, for the easy spotting of new opportunities and risks. By running in Colab, **people can start writing and executing their own code without having to install anything locally.**
 
 ![A ship in the ocean](https://images.unsplash.com/photo-1527685816164-fa0d282cd89a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1548&q=80 "A ship sailing for trade.")
 
